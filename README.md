@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Peter Atallah!
 
-<!--
-**ExcelUnlocked-YT/ExcelUnlocked-YT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Microsoft Office Specialist (Excel) & Data Workflow Automation Creator
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I specialize in building, optimizing, and teaching advanced data workflows using standard Microsoft Office tools. My main focus is helping professionals master the **ETL (Extract, Transform, Load)** pipeline to save hours of manual work every single day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🏅 Verified Credentials
+* **Microsoft Office Specialist (MOS):** Office Excel®
+* **Verification Portal:** [://certiport.com](https://://certiport.com/) (Enter Code: **yrAy-DTpK**)
+
+---
+
+## 📺 What I Do at Excel Unlocked
+On my YouTube channel, **@ExcelUnlocked**, I break down complex spreadsheet tasks into simple, actionable tricks. 
+* 🛠️ **Power Query Automation:** Cleaning messy datasets, combining multiple files, and staging data seamlessly.
+* 📈 **Advanced Modeling:** Designing dynamic array formulas and automated report dashboards.
+* 🚀 **Efficiency Hacks:** Unlocking hidden shortcuts, quick tools, and built-in features you didn't know existed.
+
+---
+
+## 🤝 Connect & Collaborate
+* 🎥 **YouTube Channel:** [Watch tutorials on @ExcelUnlocked](https://youtube.com)
+* 📂 **Practice Assets:** Download my [Excel-PowerQuery-Tutorials](https://github.com) repository to grab all the source files and raw datasets for my videos.
+
+*Let's stop doing manual data entry and start letting Excel do the heavy lifting!* 😉
