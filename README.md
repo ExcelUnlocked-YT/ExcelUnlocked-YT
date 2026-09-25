@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I specialize in building, optimizing, and teaching
 
 ## 🏅 Verified Credentials
 * **Microsoft Office Specialist (MOS):** Office Excel®
-* **Verification Portal:** [://certiport.com](https://://certiport.com/) (Enter Code: **yrAy-DTpK**)
+* **Verification Portal:** [verify.certiport.com](https://certiport.com) (Enter Code: **yrAy-DTpK**)
 
 ---
 
@@ -21,7 +21,7 @@ On my YouTube channel, **@ExcelUnlocked**, I break down complex spreadsheet task
 ---
 
 ## 🤝 Connect & Collaborate
-* 🎥 **YouTube Channel:** [Watch tutorials on @ExcelUnlocked](https://youtube.com)
+* 🎥 **YouTube Channel:** [Watch tutorials on @ExcelUnlocked](https://www.youtube.com/@ExcelUnlocked)
 * 📂 **Practice Assets:** Download my [Excel-PowerQuery-Tutorials](https://github.com) repository to grab all the source files and raw datasets for my videos.
 
 *Let's stop doing manual data entry and start letting Excel do the heavy lifting!* 😉
