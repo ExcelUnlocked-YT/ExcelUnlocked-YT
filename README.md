@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I specialize in building, optimizing, and teaching
 
 ## 🏅 Verified Credentials
 * **Microsoft Office Specialist (MOS):** Office Excel®
-* **Verification Portal:** [verify.certiport.com](verify.certiport.com) (Enter Code: **yrAy-DTpK**)
+* **Verification Portal:** [verify.certiport.com]([verify.certiport.com](https://www.certiport.com/portal/pages/credentialverification.aspx)) (Enter Code: **yrAy-DTpK**)
 
 ---
 
